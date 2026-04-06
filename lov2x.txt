@@ -1,0 +1,7 @@
+[c] [ff8c00]━━━━━━━━━━━━━━━━━━━━━━
+[c] [00ffd8]-- SERVER KhanhDuy Vip --
+[c] [ff8c00]━━━━━━━━━━━━━━━━━━━━━━
+[c] [00ff00]Proxy KhanhDuy
+[c] [ff8c00]━━━━━━━━━━━━━━━━━━━━━━
+[c] [ffd700]Vui lòng tắt Proxy và không bật lại 
+[c] [ff8c00]━━━━━━━━━━━━━━━━━━━━━━
